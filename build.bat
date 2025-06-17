@@ -1,0 +1,1 @@
+pyinstaller extract-xiso-py.spec
