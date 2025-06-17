@@ -32,4 +32,5 @@ A: Probably not, i had this script on my PC since last Year Christmas so the onl
 
 ## Special Thanks to:
 
-[in](mailto:in@fishtank.com) for creating and [XboxDev organisation](https://github.com/XboxDev) for maintaining [extract-xiso](https://github.com/XboxDev/extract-xiso)
+[in](mailto:in@fishtank.com) for creating and [XboxDev organisation](https://github.com/XboxDev) for maintaining [extract-xiso](https://github.com/XboxDev/extract-xiso)<br>
+[IronRingX](https://github.com/IronRingX) for [batch-xiso-extract](https://github.com/IronRingX/batch-xiso-extract)
